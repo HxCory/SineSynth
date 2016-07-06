@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2013
+Project("{BCFAF32E-39BA-39DF-E1C3-E5962922223C}") = "SineSynthTutorial", "SineSynthTutorial.vcxproj", "{5F66A56C-EE84-64B6-D446-3798F0E98117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F66A56C-EE84-64B6-D446-3798F0E98117}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5F66A56C-EE84-64B6-D446-3798F0E98117}.Debug|Win32.Build.0 = Debug|Win32
+		{5F66A56C-EE84-64B6-D446-3798F0E98117}.Release|Win32.ActiveCfg = Release|Win32
+		{5F66A56C-EE84-64B6-D446-3798F0E98117}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
